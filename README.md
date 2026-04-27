@@ -8,3 +8,6 @@ Features:
 
 Technologies:
 Python, Streamlit, yfinance, Plotly
+
+🌐 Live Demo:
+https://stock-dashboard-snwaxl9k5oswmuxue68k9s.streamlit.app
