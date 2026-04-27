@@ -1,3 +1,5 @@
+🚀 This project is deployed using Streamlit Cloud and updates live using real-time financial data.
+
 Stock Market Dashboard Project
 
 Features:
